@@ -1,18 +1,17 @@
 # ASCL-FS
 
-按 MIMPDE 的简洁 MATLAB 项目结构整理，采用原主算法的 **Case A** 参数。保留稳定双评分筛选与渐进初始化、交叉引导动态阈值、鲁棒精英档案三个核心模块。
+采用主算法的 Case A参数。保留稳定双评分筛选与渐进初始化、交叉引导动态阈值、鲁棒精英档案三个核心模块。
 
 ## 运行
 
-用 MATLAB 打开本文件夹并设为当前文件夹，打开 `main.m` 后点击“运行”，或在命令窗口输入：
+用 MATLAB 打开本文件夹并设为当前文件夹，打开 'main.m'后点击“运行”，或在命令窗口输入：
 
 ```matlab
 main
-```
 
 运行环境：MATLAB R2022b 和 Statistics and Machine Learning Toolbox。
 
-`DataSet` 已包含 Case A 结果目录对应的 21 个数据集，每个 MAT 文件包含 `feat` 和 `label`。所有输入、输出路径均相对于本项目，可整体移动。
+'DataSet' 已包含 Case A 结果目录对应的 21 个数据集，每个 MAT 文件包含 `feat` 和 `label`。所有输入、输出路径均相对于本项目，可整体移动。
 
 ## 文件
 
