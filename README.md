@@ -10,9 +10,9 @@
 main
 ```
 
-运行环境：MATLAB R2022b 和 Statistics and Machine Learning Toolbox。无需 Python、额外编译或下载工具箱代码。
+运行环境：MATLAB R2022b 和 Statistics and Machine Learning Toolbox。
 
-`DataSet` 已包含 Case A 结果目录对应的 21 个数据集，每个 MAT 文件包含 `feat` 和 `label`。所有输入、输出路径均相对于本项目，可整体移动。建议只将本项目加入 MATLAB 路径，避免与 MIMPDE 中同名的 `main`、`jknn`、`jFitnessFunction` 混用。
+`DataSet` 已包含 Case A 结果目录对应的 21 个数据集，每个 MAT 文件包含 `feat` 和 `label`。所有输入、输出路径均相对于本项目，可整体移动。
 
 ## 文件
 
