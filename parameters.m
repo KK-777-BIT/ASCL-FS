@@ -10,7 +10,7 @@ opts.verbose = false;
 
 opts.N = 100;
 opts.T = 100;
-opts.runNum = 5;
+opts.runNum = 10;
 
 % Particle swarm.
 opts.c1 = 1.49445;
